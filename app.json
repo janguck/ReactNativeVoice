@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Record",
+    "description": "Hear me now.",
+    "slug": "record",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4", "mp3"]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
